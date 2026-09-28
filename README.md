@@ -1,6 +1,6 @@
 # Hi, I'm Tricci 👋
 
-I'm a data science student at **Fordham University**. I like using data to answer real-world questions in markets, public policy, and sports.
+I'm a data science grad student at **Fordham University**.
 
 ## Featured projects
 
