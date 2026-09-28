@@ -16,6 +16,4 @@ I'm a data science grad student at **Fordham University**.
 **Data & ML:** pandas, NumPy, scikit-learn, XGBoost, PyTorch, Hugging Face Transformers
 **Visualization:** Matplotlib, Seaborn, Tableau, Chart.js
 
-<!-- Add your contact link, then remove these comment markers:
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE)
--->
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/patriciadominiqueangeles/)
